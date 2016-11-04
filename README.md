@@ -1,7 +1,7 @@
 # RaspberryNas
 
 Model of a Raspberry Pi nas enclosure.
-Modify the back plate according to the dimensions of the usb hub of your choice and your rj45 connector.
+Modify the back plate according to the dimensions of the usb hub of your choice, your rj45 connector and you power connector.
 
 Still in beta, check dimensions and holes before printing.
 
